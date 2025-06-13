@@ -1,17 +1,13 @@
 # boxing-nekoian
 
-![Uploading Boxing.jpg…]()
-
-
 
 👨‍💻 Developed By: Sepehr Nekooian
 
-📅 Created On: Jun 5, 2025
+📅 Created On: June 13, 2025
 
 💻Technologies Used: HTML/CSS 
 
 📬 How to Reach Me:
-
 
 🔗 Online Demo:https://sepehrnekooian.github.io/boxing-nekoian/boxing-nekoian/
 
