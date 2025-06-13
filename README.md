@@ -6,7 +6,9 @@
 💻Technologies Used: HTML/CSS 
 
 📬 How to Reach Me:
-[Demo Project]:https://sepehrnekooian.github.io/boxing-nekoian/boxing-nekoian/
+
+
+🔗 Online Demo:https://sepehrnekooian.github.io/boxing-nekoian/boxing-nekoian/
 
 LinkedIn: www.linkedin.com/in/snekoian
 
